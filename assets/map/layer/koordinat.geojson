@@ -1,0 +1,13 @@
+{
+    "type": "FeatureCollection",
+    "name": "koordinat",
+    "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32749" } },
+    "features": [
+    { "type": "Feature", "properties": { "Id": 0, "Kelurahan": "Jatirejo", "X": 110346083.0, "Y": -7041833.0, "Kerentanan": "Tinggi", "TWI": 14.507908, "Elevasi": "152 meter" }, "geometry": { "type": "Point", "coordinates": [ 427729.750828443909995, 9221581.04127780534327 ] } },
+    { "type": "Feature", "properties": { "Id": 0, "Kelurahan": "Cepoko", "X": 110344139.0, "Y": -7073972.0, "Kerentanan": "Tinggi", "TWI": 14.507908, "Elevasi": "204 meter" }, "geometry": { "type": "Point", "coordinates": [ 427591.493245217134245, 9218055.553975293412805 ] } },
+    { "type": "Feature", "properties": { "Id": 0, "Kelurahan": "Mangunsari", "X": 110372444.0, "Y": -7081222.0, "Kerentanan": "Tinggi", "TWI": 14.507908, "Elevasi": "278 meter" }, "geometry": { "type": "Point", "coordinates": [ 430614.457514400710352, 9217222.404626846313477 ] } },
+    { "type": "Feature", "properties": { "Id": 0, "Kelurahan": "Ungaran", "X": 110418.0, "Y": -7131639.0, "Kerentanan": "Tinggi", "TWI": 13.166734, "Elevasi": "309 meter" }, "geometry": { "type": "Point", "coordinates": [ 435525.512969307485037, 9212621.551989950239658 ] } },
+    { "type": "Feature", "properties": { "Id": 0, "Kelurahan": "Sampangan", "X": 110394639.0, "Y": -7006417.0, "Kerentanan": "Tinggi", "TWI": 14.507908, "Elevasi": "8 meter" }, "geometry": { "type": "Point", "coordinates": [ 433690.327300525619648, 9226217.364085370674729 ] } },
+    { "type": "Feature", "properties": { "Id": 0, "Kelurahan": "Panggung Lor", "X": 1104005555.0, "Y": -69570246.0, "Kerentanan": "Tinggi", "TWI": 14.507908, "Elevasi": "2 meter" }, "geometry": { "type": "Point", "coordinates": [ 433767.857867908664048, 9229861.858504509553313 ] } }
+    ]
+    }
